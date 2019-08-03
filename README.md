@@ -1,0 +1,2 @@
+# adsonamp
+ads on amp
