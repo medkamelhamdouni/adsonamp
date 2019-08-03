@@ -1,10 +1,16 @@
 # adsonamp
 === Ads on Content AMP Pages ===
+
 Contributors: hamdounikamel
+
 Tags: amp,ads,adsense,content,Ad Management,advanced contextual ads,advertising manager
+
 Tested up to: 4.9.1
+
 License: GPL2
+
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
+
 
 Ads on Content AMP Pages is to Insert Ads WithIn your Post Content AMP Pages in WordPress, To Make Money from AMP .
 
